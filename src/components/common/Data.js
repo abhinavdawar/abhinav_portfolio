@@ -100,10 +100,10 @@ export const skillArrayB = [
 
 export const educationArray = [
 	{
-		period: '2017',
+		period: '2017 - 2021',
 		instituteName: 'GGSIPU, New Delhi',
-		education: 'Bachelor of Technology',
-		course: 'Information Technology',
+		education: '(Information Technology)',
+		course: 'Bachelor of Technology',
 	},
 ];
 
