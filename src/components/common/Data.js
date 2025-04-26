@@ -4,7 +4,6 @@ import { GrStatusGood } from 'react-icons/gr';
 import { HiOutlineRocketLaunch } from 'react-icons/hi2';
 import project1 from '../../assests/project1.png';
 import project3 from '../../assests/project3.png';
-import project4 from '../../assests/project4.png';
 
 export const aboutInfoA = [
 	{
