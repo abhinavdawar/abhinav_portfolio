@@ -17,6 +17,7 @@ const EducationAndExperience = () => {
 								</div>
 								<div className='place'>
 									<h3>{education.instituteName}</h3>
+									<h4>{education.course}</h4>
 									<span>{education.education}</span>
 								</div>
 							</div>
