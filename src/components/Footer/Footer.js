@@ -7,7 +7,7 @@ const Footer = () => {
 		<div className='footer-container'>
 			<SocialLinks />
 			<p>
-				{/* Made with <span className='heart'>&#x2764;</span> by VAISHALI MADAN */}
+				{/* Made with <span className='heart'>&#x2764;</span> by ABHINAV DAWAR */}
 			</p>
 		</div>
 	);

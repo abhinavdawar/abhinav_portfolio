@@ -43,15 +43,15 @@ export const featuresArray = [
 	},
 	{
 		icon: <PiDevicesBold />,
-		title: 'Responsive',
+		title: 'Availability',
 		description:
-			'Resposive web designes which will work smoothly on every screen be it small, medium or large.',
+			'I tend to keep good SLAs and SLOs for my applications, so that they are always available to the users.',
 	},
 	{
 		icon: <GrStatusGood />,
-		title: 'Easy',
+		title: 'Design Principles',
 		description:
-			'Developed designs and UI is very easy to understand and you can navigate through all the features easily without any issue.',
+			'I follow SOLID design principles to create clean and scalable applications.',
 	},
 	{
 		icon: <HiOutlineRocketLaunch />,
@@ -100,19 +100,9 @@ export const skillArrayB = [
 
 export const educationArray = [
 	{
-		period: '2025',
-		instituteName: 'UpGrad',
-		education: 'UI/UX Design Bootcamp',
-	},
-	{
-		period: '2019-2021',
-		instituteName: 'NMIMS, Maharashtra',
-		education: 'PGBDM in International Trade Management',
-	},
-	{
-		period: '2012–2015',
-		instituteName: 'NIIFT, Mohali',
-		education: 'BSc. Fashion Technology',
+		period: '2017-2021',
+		instituteName: 'GGSIPU, New Delhi',
+		education: 'B.Tech in Information Technology',
 	},
 ];
 
@@ -143,7 +133,7 @@ export const projectsArray = [
 		name: 'Web Crawler',
 		description:
 			'Developed a web crawler using Python and Scrapy to scrape data from multiple websites and store it in a database for further analysis.',
-		link: 'https://webmagic.netlify.app/',
+		link: 'https://github.com/abhinavdawar/crawler',
 		image: project3,
 	}
 ];
