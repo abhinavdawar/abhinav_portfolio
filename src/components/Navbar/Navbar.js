@@ -25,7 +25,7 @@ const Navbar = () => {
 	return (
 		<div className='navbar'>
 			<Link to='/' className='navbar-logo'>
-				<h2>Vaishali Madan</h2>
+				<h2>Abhinav Dawar</h2>
 			</Link>
 			<div className='navbar-line'>
 				<p>
